@@ -1,0 +1,69 @@
+[
+  {
+    "model": "recipes.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "kurczak po syczuańsku",
+      "ingredients": [
+        1,
+        2
+      ],
+      "level": "hard",
+      "image": null
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 2,
+    "fields": {
+      "name": "kaczka",
+      "ingredients": [
+        3,
+        4
+      ],
+      "level": "hard",
+      "image": null
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 3,
+    "fields": {
+      "name": "pączki",
+      "ingredients": [
+        1,
+        3
+      ],
+      "level": "medium",
+      "image": null
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk":4,
+    "fields": {
+      "name": "frytki z buraczkami",
+      "ingredients": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "level": "easy",
+      "image": null
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 5,
+    "fields": {
+      "name": "zupa ogórkowa",
+      "ingredients": [
+        6,
+        4
+      ],
+      "level": "easy",
+      "image": null
+    }
+  }
+]
