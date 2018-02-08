@@ -1,0 +1,10 @@
+venv
+html/node_modules
+html/compiled
+elastic_food/db.sqlite3
+*.pyc
+elastic_food/elastic_food/localsettings.py
+.DS_Store
+elastic_food/.idea
+html/dis
+html/package-lock.json
